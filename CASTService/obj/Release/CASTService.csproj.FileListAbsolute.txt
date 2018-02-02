@@ -1,0 +1,5 @@
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTService\bin\CASTService.dll
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTService\bin\CASTService.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTService\obj\Release\CASTService.dll
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTService\obj\Release\CASTService.pdb

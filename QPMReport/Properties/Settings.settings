@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QPMReport.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AMB" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="APP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SITA</Value>
+    </Setting>
+    <Setting Name="CDT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25/06/2017 16:34:44</Value>
+    </Setting>
+    <Setting Name="CHS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">S:\SITA\2023\SITA\changeset.txt</Value>
+    </Setting>
+    <Setting Name="IDA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CAST SNA#22#36787</Value>
+    </Setting>
+    <Setting Name="IDR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2023</Value>
+    </Setting>
+    <Setting Name="LSV" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MAC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F</Value>
+    </Setting>
+    <Setting Name="MAT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">N</Value>
+    </Setting>
+    <Setting Name="SNN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SITA 25/06/2017 16:34:44</Value>
+    </Setting>
+    <Setting Name="TAT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COF_SNA</Value>
+    </Setting>
+    <Setting Name="VBS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SITA 10/04/2017 15:02:56</Value>
+    </Setting>
+    <Setting Name="VER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SITA_RELEASE_3228</Value>
+    </Setting>
+    <Setting Name="VPR" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

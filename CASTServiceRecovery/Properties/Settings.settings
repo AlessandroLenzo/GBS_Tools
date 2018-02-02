@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CASTServiceRecovery.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://10.180.73.167:8080/QPM_WS/services/qpmAttivitaSOAP</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

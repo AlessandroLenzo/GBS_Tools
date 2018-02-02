@@ -1,0 +1,24 @@
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestGetSnapshotID\bin\Debug\TestGetSnapshotID.exe
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestGetSnapshotID\bin\Debug\TestGetSnapshotID.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestGetSnapshotID\bin\Debug\CASTService.dll
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestGetSnapshotID\bin\Debug\CASTService.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestGetSnapshotID\obj\x86\Debug\TestGetSnapshotID.exe
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestGetSnapshotID\obj\x86\Debug\TestGetSnapshotID.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestGetSnapshotID\bin\Debug\TestGetSnapshotID.exe.config
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestGetSnapshotID\bin\Debug\ClosedXML.dll
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestGetSnapshotID\bin\Debug\ClosedXML.xml
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestGetSnapshotID\obj\x86\Debug\TestGetSnapshotID.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestGetSnapshotID\bin\Debug\QualityCheckReport.xlsx
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestGetSnapshotID\bin\Debug\QualityCheckReport.xlsx
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestGetSnapshotID\bin\Debug\TestGetSnapshotID.exe.config
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestGetSnapshotID\bin\Debug\TestGetSnapshotID.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestGetSnapshotID\bin\Debug\TestGetSnapshotID.pdb
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestGetSnapshotID\bin\Debug\CASTService.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestGetSnapshotID\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestGetSnapshotID\bin\Debug\ClosedXML.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestGetSnapshotID\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestGetSnapshotID\bin\Debug\CASTService.pdb
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestGetSnapshotID\bin\Debug\ClosedXML.xml
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestGetSnapshotID\obj\x86\Debug\TestGetSnapshotID.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestGetSnapshotID\obj\x86\Debug\TestGetSnapshotID.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestGetSnapshotID\obj\x86\Debug\TestGetSnapshotID.pdb

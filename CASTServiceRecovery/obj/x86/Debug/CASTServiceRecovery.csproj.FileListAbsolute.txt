@@ -1,0 +1,30 @@
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTServiceRecovery\bin\Debug\CASTServiceRecovery.exe
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTServiceRecovery\bin\Debug\CASTServiceRecovery.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTServiceRecovery\obj\x86\Debug\CASTServiceRecovery.Properties.Resources.resources
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTServiceRecovery\obj\x86\Debug\CASTServiceRecovery.csproj.GenerateResource.Cache
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTServiceRecovery\obj\x86\Debug\CASTServiceRecovery.exe
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTServiceRecovery\obj\x86\Debug\CASTServiceRecovery.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTServiceRecovery\obj\x86\Debug\CASTServiceRecovery.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTServiceRecovery\obj\x86\Debug\CASTServiceRecovery.CASTServiceRecoveryForm.resources
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTServiceRecovery\bin\Debug\CASTServiceRecovery.exe.config
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTServiceRecovery\bin\Debug\CASTService.dll
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTServiceRecovery\bin\Debug\ClosedXML.dll
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTServiceRecovery\bin\Debug\CASTService.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTServiceRecovery\bin\Debug\ClosedXML.xml
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTServiceRecovery\bin\Debug\QualityCheckReport.xlsx
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\bin\Debug\QualityCheckReport.xlsx
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\bin\Debug\CASTServiceRecovery.exe.config
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\bin\Debug\CASTServiceRecovery.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\bin\Debug\CASTServiceRecovery.pdb
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\bin\Debug\CASTService.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\bin\Debug\ClosedXML.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\bin\Debug\CASTService.pdb
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\bin\Debug\ClosedXML.xml
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\obj\x86\Debug\CASTServiceRecovery.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\obj\x86\Debug\CASTServiceRecovery.CASTServiceRecoveryForm.resources
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\obj\x86\Debug\CASTServiceRecovery.Properties.Resources.resources
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\obj\x86\Debug\CASTServiceRecovery.csproj.GenerateResource.Cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\obj\x86\Debug\CASTServiceRecovery.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTServiceRecovery\obj\x86\Debug\CASTServiceRecovery.pdb

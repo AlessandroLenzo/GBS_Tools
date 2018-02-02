@@ -1,0 +1,10 @@
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestMapFolder\bin\Debug\TestMapFolder.exe
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestMapFolder\bin\Debug\TestMapFolder.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestMapFolder\obj\x86\Debug\TestMapFolder.exe
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestMapFolder\obj\x86\Debug\TestMapFolder.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestMapFolder\obj\x86\Debug\TestMapFolder.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestMapFolder\bin\Debug\TestMapFolder.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestMapFolder\bin\Debug\TestMapFolder.pdb
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestMapFolder\obj\x86\Debug\TestMapFolder.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestMapFolder\obj\x86\Debug\TestMapFolder.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestMapFolder\obj\x86\Debug\TestMapFolder.pdb

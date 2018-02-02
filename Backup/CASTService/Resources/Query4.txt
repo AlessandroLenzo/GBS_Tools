@@ -1,0 +1,57 @@
+﻿SELECT 
+t1.metric_id diag_id, 
+o.object_id object_id, 
+o.object_full_name object_name, 
+(SELECT     
+           rp.Path
+FROM       DSS_OBJECTS art
+           JOIN DSS_TRANSLATION_TABLE dtt
+           ON         dtt.OBJECT_ID = art.OBJECT_ID
+           JOIN       :KB.ObjFilRef ofr
+           ON         ofr.IdObj     = dtt.SITE_OBJECT_ID
+           JOIN       :KB.RefPath rp
+           ON         rp.IdFilRef   = ofr.IdFilRef
+WHERE 
+          art.OBJECT_ID = o.object_id and rownum=1) file_path,   
+t1.metric_name diag_name, 
+count(*) violations_count,         
+(':url?frame=FRAME_PORTAL_INVESTIGATION_VIEW' || CHR(38) || 'snapshot=:snapshot' || CHR(38) || 'metric=' || t1.metric_id || CHR(38) || 'treeobject=' || o.object_id) dashboard_link,
+qt.t_criterion_name t_criterion_name,
+qt.b_criterion_name b_criterion_name,
+(SELECT     
+           co.object_language_name
+FROM       DSS_OBJECTS art
+           JOIN DSS_TRANSLATION_TABLE dtt
+           ON         dtt.OBJECT_ID = art.OBJECT_ID
+           JOIN       :KB.cdt_objects co
+           ON         co.object_id = dtt.SITE_OBJECT_ID
+WHERE 
+          art.OBJECT_ID = o.object_id) language
+
+FROM dss_metric_results r,
+dss_metric_type_trees tt,
+dss_metric_types t1,
+dss_objects o,
+dss_links l,
+dss_module_links ml,
+dss_objects op,
+dss_snapshots s,
+QPM_QPM.T_QUALITY_TREE  qt
+
+WHERE tt.metric_id = r.metric_id 
+AND qt.metric_id = t1.metric_id
+AND tt.metric_parent_id = t1.metric_id 
+AND t1.metric_group = 1
+AND r.object_id = o.object_id 
+AND l.next_object_id = o.object_id 
+AND l.previous_object_id = ml.module_id
+AND ml.object_id = op.object_id
+AND ml.object_type_id = 20000
+AND ml.snapshot_id = s.snapshot_id
+AND l.link_type_id = 3
+AND r.snapshot_id = s.snapshot_id
+AND r.metric_value_index = 1
+AND s.APPLICATION_ID = :app
+AND s.SNAPSHOT_ID = :snapshot
+AND o.object_full_name IN (select object_fullname FROM :QCL.csv_file_objects)
+GROUP BY t1.metric_id, o.object_full_name, t1.metric_name, o.object_id, qt.t_criterion_name, qt.b_criterion_name

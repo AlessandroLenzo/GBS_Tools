@@ -1,0 +1,24 @@
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestOpenXML\bin\Debug\TestOpenXML.exe
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestOpenXML\bin\Debug\TestOpenXML.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestOpenXML\obj\x86\Debug\TestOpenXML.exe
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestOpenXML\obj\x86\Debug\TestOpenXML.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestOpenXML\bin\Debug\TestOpenXML.exe.config
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestOpenXML\bin\Debug\CASTService.dll
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestOpenXML\bin\Debug\CASTService.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestOpenXML\bin\Debug\ClosedXML.dll
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestOpenXML\bin\Debug\ClosedXML.xml
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestOpenXML\obj\x86\Debug\TestOpenXML.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestOpenXML\bin\Debug\QualityCheckReport.xlsx
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestOpenXML\bin\Debug\QualityCheckReport.xlsx
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestOpenXML\bin\Debug\TestOpenXML.exe.config
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestOpenXML\bin\Debug\TestOpenXML.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestOpenXML\bin\Debug\TestOpenXML.pdb
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestOpenXML\bin\Debug\CASTService.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestOpenXML\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestOpenXML\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestOpenXML\bin\Debug\ClosedXML.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestOpenXML\bin\Debug\CASTService.pdb
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestOpenXML\bin\Debug\ClosedXML.xml
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestOpenXML\obj\x86\Debug\TestOpenXML.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestOpenXML\obj\x86\Debug\TestOpenXML.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestOpenXML\obj\x86\Debug\TestOpenXML.pdb

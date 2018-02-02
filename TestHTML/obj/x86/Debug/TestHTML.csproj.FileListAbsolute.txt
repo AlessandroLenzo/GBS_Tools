@@ -1,0 +1,24 @@
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestHTML\bin\Debug\TestHTML.exe
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestHTML\bin\Debug\TestHTML.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestHTML\bin\Debug\CASTService.dll
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestHTML\bin\Debug\CASTService.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestHTML\obj\x86\Debug\TestHTML.exe
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestHTML\obj\x86\Debug\TestHTML.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestHTML\bin\Debug\TestHTML.exe.config
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestHTML\bin\Debug\ClosedXML.dll
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestHTML\bin\Debug\ClosedXML.xml
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestHTML\obj\x86\Debug\TestHTML.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestHTML\bin\Debug\QualityCheckReport.xlsx
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestHTML\bin\Debug\QualityCheckReport.xlsx
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestHTML\bin\Debug\TestHTML.exe.config
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestHTML\bin\Debug\TestHTML.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestHTML\bin\Debug\TestHTML.pdb
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestHTML\bin\Debug\CASTService.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestHTML\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestHTML\bin\Debug\ClosedXML.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestHTML\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestHTML\bin\Debug\CASTService.pdb
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestHTML\bin\Debug\ClosedXML.xml
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestHTML\obj\x86\Debug\TestHTML.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestHTML\obj\x86\Debug\TestHTML.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestHTML\obj\x86\Debug\TestHTML.pdb

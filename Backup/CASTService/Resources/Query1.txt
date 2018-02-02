@@ -1,0 +1,24 @@
+SELECT t1.metric_id diag_id, o.object_id object_id, o.object_full_name object_name, t1.metric_name diag_name, count(*) violations_count
+FROM dss_metric_results r,
+dss_metric_type_trees tt,
+dss_metric_types t1,
+dss_objects o,
+dss_links l,
+dss_module_links ml,
+dss_objects op,
+dss_snapshots s
+WHERE tt.metric_id = r.metric_id 
+AND tt.metric_parent_id = t1.metric_id 
+AND t1.metric_group = 1
+AND r.object_id = o.object_id 
+AND l.next_object_id = o.object_id 
+AND l.previous_object_id = ml.module_id
+AND ml.object_id = op.object_id
+AND ml.object_type_id = 20000
+AND ml.snapshot_id = s.snapshot_id
+AND l.link_type_id = 3
+AND r.snapshot_id = s.snapshot_id
+AND r.metric_value_index = 1
+AND s.APPLICATION_ID = :app
+AND s.SNAPSHOT_ID = :snapshot
+GROUP BY t1.metric_id, o.object_full_name, t1.metric_name, o.object_id

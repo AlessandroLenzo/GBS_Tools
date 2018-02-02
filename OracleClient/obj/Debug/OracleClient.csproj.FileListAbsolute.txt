@@ -1,0 +1,6 @@
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\OracleClient\bin\Debug\OracleClient.exe.config
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\OracleClient\bin\Debug\OracleClient.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\OracleClient\bin\Debug\OracleClient.pdb
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\OracleClient\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\OracleClient\obj\Debug\OracleClient.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\OracleClient\obj\Debug\OracleClient.pdb

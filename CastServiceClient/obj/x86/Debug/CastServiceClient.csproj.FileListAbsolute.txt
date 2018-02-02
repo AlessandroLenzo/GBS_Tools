@@ -1,0 +1,18 @@
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CastServiceClient\bin\Debug\CastServiceClient.exe.config
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CastServiceClient\bin\Debug\CastServiceClient.exe
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CastServiceClient\bin\Debug\CastServiceClient.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CastServiceClient\obj\x86\Debug\CastServiceClient.Form1.resources
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CastServiceClient\obj\x86\Debug\CastServiceClient.Properties.Resources.resources
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CastServiceClient\obj\x86\Debug\CastServiceClient.exe
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CastServiceClient\obj\x86\Debug\CastServiceClient.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CastServiceClient\obj\x86\Debug\CASTServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CastServiceClient\obj\x86\Debug\CASTServiceClient.csproj.GenerateResource.Cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CastServiceClient\bin\Debug\CastServiceClient.exe.config
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CastServiceClient\bin\Debug\CastServiceClient.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CastServiceClient\bin\Debug\CastServiceClient.pdb
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CastServiceClient\obj\x86\Debug\CASTServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CastServiceClient\obj\x86\Debug\CastServiceClient.Form1.resources
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CastServiceClient\obj\x86\Debug\CastServiceClient.Properties.Resources.resources
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CastServiceClient\obj\x86\Debug\CASTServiceClient.csproj.GenerateResource.Cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CastServiceClient\obj\x86\Debug\CastServiceClient.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CastServiceClient\obj\x86\Debug\CastServiceClient.pdb

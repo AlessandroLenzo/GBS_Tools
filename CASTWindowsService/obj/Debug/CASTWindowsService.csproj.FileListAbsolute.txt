@@ -1,0 +1,11 @@
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTWindowsService\bin\Debug\CASTWindowsService.exe.config
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTWindowsService\bin\Debug\CASTWindowsService.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTWindowsService\bin\Debug\CASTWindowsService.pdb
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTWindowsService\bin\Debug\ClosedXML.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTWindowsService\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTWindowsService\bin\Debug\ClosedXML.xml
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTWindowsService\obj\Debug\CAST.Properties.Resources.resources
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTWindowsService\obj\Debug\CASTWindowsService.csproj.GenerateResource.Cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTWindowsService\obj\Debug\CASTWindowsService.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTWindowsService\obj\Debug\CASTWindowsService.pdb
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTWindowsService\obj\Debug\CASTWindowsService.csprojResolveAssemblyReference.cache

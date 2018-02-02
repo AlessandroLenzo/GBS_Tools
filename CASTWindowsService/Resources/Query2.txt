@@ -1,0 +1,13 @@
+SELECT     
+           rp.Path
+FROM       DSS_OBJECTS art
+           JOIN DSS_TRANSLATION_TABLE dtt
+           ON         dtt.OBJECT_ID = art.OBJECT_ID
+           JOIN       :KB.ObjFilRef ofr
+           ON         ofr.IdObj     = dtt.SITE_OBJECT_ID
+           JOIN       :KB.RefPath rp
+           ON         rp.IdFilRef   = ofr.IdFilRef
+WHERE 
+          art.OBJECT_ID = :ID
+
+

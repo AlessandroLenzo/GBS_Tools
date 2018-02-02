@@ -1,0 +1,4 @@
+SELECT     
+           object_fullname
+FROM       :KB.csv_file_objects 
+          

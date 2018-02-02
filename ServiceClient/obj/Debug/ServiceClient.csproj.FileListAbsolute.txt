@@ -1,0 +1,6 @@
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\ServiceClient\bin\Debug\ServiceClient.exe.config
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\ServiceClient\bin\Debug\ServiceClient.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\ServiceClient\obj\Debug\ServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\ServiceClient\obj\Debug\ServiceClient.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\ServiceClient\obj\Debug\ServiceClient.pdb

@@ -1,0 +1,22 @@
+c:\users\ale\documents\visual studio 2010\Projects\CASTService\CASTService\bin\CASTService.dll
+c:\users\ale\documents\visual studio 2010\Projects\CASTService\CASTService\bin\CASTService.pdb
+c:\users\ale\documents\visual studio 2010\Projects\CASTService\CASTService\obj\Debug\CASTService.dll
+c:\users\ale\documents\visual studio 2010\Projects\CASTService\CASTService\obj\Debug\CASTService.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTService\obj\Debug\CAST.Properties.Resources.resources
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTService\bin\ClosedXML.dll
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTService\bin\ClosedXML.xml
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTService\obj\Debug\CASTService.csproj.GenerateResource.Cache
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTService\bin\QualityCheckReport.xlsx
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\CASTService\obj\Debug\CASTService.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTService\bin\QualityCheckReport.xlsx
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTService\bin\CASTService.dll.config
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTService\bin\CASTService.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTService\bin\CASTService.pdb
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTService\bin\ClosedXML.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTService\bin\DocumentFormat.OpenXml.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTService\bin\ClosedXML.xml
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTService\obj\Debug\CASTService.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTService\obj\Debug\CAST.Properties.Resources.resources
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTService\obj\Debug\CASTService.csproj.GenerateResource.Cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTService\obj\Debug\CASTService.dll
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\CASTService\obj\Debug\CASTService.pdb

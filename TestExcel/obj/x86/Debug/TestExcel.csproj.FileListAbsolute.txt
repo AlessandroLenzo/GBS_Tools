@@ -1,0 +1,8 @@
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestExcel\bin\Debug\TestExcel.exe
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestExcel\bin\Debug\TestExcel.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestExcel\obj\x86\Debug\TestExcel.exe
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestExcel\obj\x86\Debug\TestExcel.pdb
+C:\Users\ALE\Documents\Visual Studio 2010\Projects\CASTService\TestExcel\obj\x86\Debug\TestExcel.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestExcel\obj\x86\Debug\TestExcel.csprojResolveAssemblyReference.cache
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestExcel\obj\x86\Debug\TestExcel.exe
+C:\Users\ALE\Documents\Customers\Generali\Generali\CASTService\Solution\CASTService\TestExcel\obj\x86\Debug\TestExcel.pdb
